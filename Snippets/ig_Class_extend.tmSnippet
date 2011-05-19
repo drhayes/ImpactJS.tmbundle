@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1:ClassName} = ig.Class.extend({
+	<string>${1:ClassName} = ig.${2:Class}.extend({
 	init: function() {
 		$0
 	}
