@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>ig.module('${1:$TM_FILEPATH/$TM_PROJECT_DIRECTORY\/lib//}')
+.requires('$2')
+.defines(function() {
+	$0
+});</string>
+	<key>name</key>
+	<string>ig.module</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>igm</string>
+	<key>uuid</key>
+	<string>4362B528-1220-4C0B-AD12-964CE8490A22</string>
+</dict>
+</plist>
