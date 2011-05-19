@@ -6,9 +6,9 @@
 	<string>ig.module(
 	'${1:`make_module_name.py $TM_FILEPATH $TM_PROJECT_DIRECTORY`}'
 )
-.requires(
-	'$2'
-)
+${2:.requires(
+	'$3'
+)}
 .defines(function() {
 	$0
 });</string>
