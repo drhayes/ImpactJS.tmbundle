@@ -7,6 +7,9 @@
 		<key>items</key>
 		<array>
 			<string>061A2977-1C1A-49E5-9BE5-C41581DCE717</string>
+			<string>B5776F02-2B0F-4AC4-AB5A-4F78C98F450A</string>
+			<string>AD270B77-7659-41C3-A60F-49B8DCC5903F</string>
+			<string>C6922BC2-2FFF-4F0B-B2F5-D4997B8F7880</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -15,9 +18,39 @@
 				<key>items</key>
 				<array>
 					<string>4362B528-1220-4C0B-AD12-964CE8490A22</string>
+					<string>C46EC1A4-BFD5-4A72-A1B8-AF1BA1962AE9</string>
 				</array>
 				<key>name</key>
 				<string>ig Core</string>
+			</dict>
+			<key>AD270B77-7659-41C3-A60F-49B8DCC5903F</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>9D74A387-F10D-4BB7-84BC-46F9C424A37D</string>
+				</array>
+				<key>name</key>
+				<string>ig.Entity</string>
+			</dict>
+			<key>B5776F02-2B0F-4AC4-AB5A-4F78C98F450A</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>025ADBBC-28F4-48F8-96F3-3187E6A89889</string>
+					<string>4540B0FA-C4B0-4B3D-B8CF-62EFBB60652E</string>
+					<string>4547EEB0-468E-4479-A9A7-4EAF687D4B71</string>
+				</array>
+				<key>name</key>
+				<string>ig.Font</string>
+			</dict>
+			<key>C6922BC2-2FFF-4F0B-B2F5-D4997B8F7880</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>8B6AD454-2FCD-4F23-8C0A-3E5B90242CDC</string>
+				</array>
+				<key>name</key>
+				<string>ig.input</string>
 			</dict>
 		</dict>
 	</dict>
